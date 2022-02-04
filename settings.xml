@@ -53,6 +53,7 @@
       <con:refreshAccessTokenMethod>AUTOMATIC</con:refreshAccessTokenMethod>
       <con:scope>https://www.googleapis.com/auth/tasks.readonly</con:scope>
       <con:accessTokenIssuedTime>1395761967</con:accessTokenIssuedTime>
+      <con:jwtConfiguration/>
       <con:responseType>id_token</con:responseType>
     </con:oAuth2Profile>
     <con:oAuth2Profile>

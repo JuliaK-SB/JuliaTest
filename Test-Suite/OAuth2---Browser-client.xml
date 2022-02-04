@@ -11,7 +11,7 @@
           <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting>
         </con:settings>
         <con:encoding/>
-        <con:endpoint>https://www.googleapis.com</con:endpoint>
+        <con:endpoint>https://www.googleapis.com1</con:endpoint>
         <con:request/>
         <con:originalUri>https://www.googleapis.com/tasks/v1/users/@me/lists</con:originalUri>
         <con:credentials>
