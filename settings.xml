@@ -37,6 +37,7 @@
       <con:scope>https://www.googleapis.com/auth/tasks.readonly</con:scope>
       <con:accessTokenExpirationTime>3600</con:accessTokenExpirationTime>
       <con:accessTokenIssuedTime>1395760374</con:accessTokenIssuedTime>
+      <con:jwtConfiguration/>
       <con:responseType>id_token</con:responseType>
     </con:oAuth2Profile>
     <con:oAuth2Profile>
